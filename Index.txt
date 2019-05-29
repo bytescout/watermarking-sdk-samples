@@ -39,37 +39,6 @@
 \C#\Show Progress Indication
 \C#\Use Actual Units to Resize Image
 \C#\Use EXIF Macros for Watermarks
-\C#\Add Advanced Text Watermark\TextFitsPage
-\C#\Add Annotation Watermark to Image\Annotation
-\C#\Add Date Time to Image\DateTime
-\C#\Add Date Time to Image\DateTime\DateTime
-\C#\Add Diagonal Stamp to Image\StampFitsPageDiagonal
-\C#\Add Diagonal Text Watermark\TextFitsPageDiagonal
-\C#\Add File Name Caption to Image\FileName
-\C#\Add Logo and Text to Image\LogoImageWithText
-\C#\Add Logo and Text to Image with Options\LogoImageWithText
-\C#\Add Logo to Image\LogoImage
-\C#\Add Logo to Image with Options\LogoImage
-\C#\Add Simple Text Watermark\SimpleText
-\C#\Add Simple Text Watermark to Image\SimpleText
-\C#\Add Simple Watermark\hello_world_cs
-\C#\Add Stamp for Whole Page\StampFitsPage
-\C#\Add Stamp to Image\Stamps
-\C#\Add Tiled Diagonal Text Watermark\TiledTextDiagonal
-\C#\Add Tiled Text Watermark\TiledText
-\C#\Add Tiled Vertical Text Watermark\TiledTextVertical
-\C#\Add Vertical Text Watermark\SimpleVerticalText
-\C#\Add Vertical Text Watermark with Options\SimpleVerticalText
-\C#\Add Whole Page Text Watermark\TextFitsPage
-\C#\Batch Watermark Multiple Images\BatchWatermarking
-\C#\Change DPI Image Resolution\Change DPI
-\C#\Resize Image as Fit Within\Fit within resize
-\C#\Resize Image in Percentage\Percentage resize
-\C#\Resize Image in Pixels\Pixels resize
-\C#\Set Advanced Annotation Based Watermark\Annotation
-\C#\Set Diagonal Text Watermark Options\TextFitsPageDiagonal
-\C#\Use Actual Units to Resize Image\Actual units resize
-\C#\Use EXIF Macros for Watermarks\AnnotationMacros
 \VB.NET\Add and Show Progress Indicator
 \VB.NET\Add Annotation Watermark
 \VB.NET\Add Annotation Watermark with Options
@@ -102,38 +71,6 @@
 \VB.NET\Set Options for Text Watermark
 \VB.NET\Set Options for Tiled Text Watermark
 \VB.NET\Use Macros for Watermarks
-\VB.NET\Add Annotation Watermark with Options\Annotation preset (advanced settings) (VB.NET)
-\VB.NET\Add Colored Stamp to Image\StampFitsPageColor (VB.NET)
-\VB.NET\Add Date Time to Image\DateTime
-\VB.NET\Add Diagonal Stamp Watermark\StampFitsPageDiagonal
-\VB.NET\Add Diagonal Text Watermark\TextFitsPageDiagonal
-\VB.NET\Add Diagonal Text with Images with Options\TextFitsPageDiagonal (VB.NET)
-\VB.NET\Add Filename to Image\FileName (VB.NET)
-\VB.NET\Add Logo and Text to Image\LogoImageWithText
-\VB.NET\Add Logo and Text to Image\LogoImageWithText preset (VB.NET)
-\VB.NET\Add Logo and Text to Images with Options\LogoImageWithText preset (VB.NET)
-\VB.NET\Add Logo to Image\LogoImage (VB.NET)
-\VB.NET\Add Simple Text Watermark\SimpleText (VB.NET)
-\VB.NET\Add Simple Text Watermark to Image with Options\SimpleText (VB.NET)
-\VB.NET\Add Simple Watermark\hello_world_vb
-\VB.NET\Add Stamp for Whole Image\StampFitsPage
-\VB.NET\Add Stamp Watermark to Image\screenshots
-\VB.NET\Add Stamp Watermark to Image\Stamps
-\VB.NET\Add Tiled Diagonal Text Watermark to Image\TiledTextDiagonal
-\VB.NET\Add Tiled Text Watermark\TiledText
-\VB.NET\Add Tiled Vertical Text Watermark\TiledTextVertical
-\VB.NET\Add Vertical Text Watermark\SimpleVerticalText (VB.NET)
-\VB.NET\Add Vertical Text with Options\SimpleVerticalText (VB.NET)
-\VB.NET\Add Watermark and Fit within Resize\Fit within resize VB.NET
-\VB.NET\Add While Page Text Watermark to Image\TextFitsPage
-\VB.NET\Batch Watermark Set of Images\Batch watermarking
-\VB.NET\Change Image Resolution in DPI\Change DPI VB.NET
-\VB.NET\Resize Image in Actual Units\Actual units resize VB.NET
-\VB.NET\Resize Image in Percents\Percentage resize VB.NET
-\VB.NET\Resize Image in Pixels\Pixels resize VB.NET
-\VB.NET\Set Options for Text Watermark\TextFitsPage (VB.NET)
-\VB.NET\Set Options for Tiled Text Watermark\TiledText (VB.NET)
-\VB.NET\Use Macros for Watermarks\AnnotationMacros  (VB.NET)
 \VBScript\Add Annotation Watermarks with Macros
 \VBScript\Add Watermark to Image
 \VBScript\Set Adjustments for Watermark on Image
